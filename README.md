@@ -16,7 +16,7 @@
 <br>
 
 - A passionate Self-taught Front-end Back-end developer
-- Currently Ethical Hacking by Self
+- Currently learning Ethical Hacking by Self
 - Personal website [link](https://javierbajamar.github.io/)
 - I'm currently studying
 
