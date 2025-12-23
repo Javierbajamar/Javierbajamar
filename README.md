@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Javier </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&random=false&width=600&height=100&lines=Javier+P%C3%A9rez;DAM+Student%2C;Love+to+learn+new+stuffs...;Back-end+%26+Front-end+Developer." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&center=true&vCenter=true&random=false&width=600&height=100&lines=Javier+P%C3%A9rez;Love+to+learn+new+stuffs...;Back-end+%26+Front-end+Developer." alt="Typing SVG" /></a>
 </p>
 
 
